@@ -1,8 +1,8 @@
-# Project1-Finance
+# Project1 - Trending Stocks
 
-Our page link: https://mtnbiker72.github.io/Project1-Finance/
+Our page link: https://mtnbiker72.github.io/trending-stocks/
 
-Repo:  https://github.com/mtnbiker72/Project1-Finance
+Repo:  https://github.com/mtnbiker72/trending-stocks
 
 User Story:
 AS AN investor
