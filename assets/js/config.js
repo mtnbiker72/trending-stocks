@@ -1,0 +1,4 @@
+var config = {
+  YAHOO_KEY : 'DR9oOHsUiU4aXTPgJZ4L945Jr9axhdZoTVlM2sd1',
+  STOCK_DATA_KEY : 'OyICJRRekWW9HgZ4E61oZqRoJNWwH6XXG748aqjr'
+}
